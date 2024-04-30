@@ -16,7 +16,7 @@ The game ends when the player correctly guesses the word or when the hangman fig
 **User Interaction:**
 Provides a user-friendly interface for playing the game.
 
-**Stock Portfolio**
+->**Stock Portfolio**
 
 **Features:**
 
@@ -32,7 +32,7 @@ Provides insights into the performance of the portfolio, including gains/losses.
 **Alerts:** 
 Users can set alerts for price changes or specific events related to their stocks.
 
-**AI Chatbot**
+->**AI Chatbot**
 
 **Features:**
 
