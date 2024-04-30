@@ -1,6 +1,6 @@
 Welcome to the task for CodeAlpha Company! Below are the details of the tasks you have been assigned:
 
-**Hangman Game**
+->**Hangman Game**
 
 **Features:**
 
