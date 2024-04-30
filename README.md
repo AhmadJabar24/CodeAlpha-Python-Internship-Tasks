@@ -1,6 +1,6 @@
-Welcome to the task for CodeAlpha Company! Below are the details of the tasks you have been assigned:
+🚀🚀Welcome to the task for CodeAlpha Company! Below are the details of the tasks you have been assigned:
 
-->**Hangman Game**
+->**Hangman Game**🤳🤳
 
 **Features:**
 
@@ -16,7 +16,7 @@ The game ends when the player correctly guesses the word or when the hangman fig
 **User Interaction:**
 Provides a user-friendly interface for playing the game.
 
-->**Stock Portfolio**
+->**Stock Portfolio**✨✨
 
 **Features:**
 
@@ -32,7 +32,7 @@ Provides insights into the performance of the portfolio, including gains/losses.
 **Alerts:** 
 Users can set alerts for price changes or specific events related to their stocks.
 
-->**AI Chatbot**
+->**AI Chatbot**🎁🎁
 
 **Features:**
 
@@ -46,4 +46,4 @@ Can provide information on various topics, assist with tasks, and engage in conv
 Learn from user interactions to tailor responses and recommendations.
 
 **Integration:**
-Can be integrated with other systems and services for enhanced functionality.
+Can be integrated with other systems and services for enhanced functionality.🚀🚀
